@@ -34,10 +34,10 @@ PowerBI/
 │
 ├── 📄 BRD powerbi.pdf         
 ├── 📄 FRD_CRM_Sales_Opportunity_Dashboard (1).pdf               
-├── 📊  
-├── 📈 Visuals/           # Dashboard Mockup (.ppt)  
-├── 🧮 PowerBI/           # Power BI files (.pbix)  
-├── 📑 Reports/           # Exported reports and dashboards  
+├── 📊  data accesment.xlxs
+├── 📈 visulas.pdf 
+├── 🧮 bi project.pbix)  
+├── 📑  
 ```
 
 ---
