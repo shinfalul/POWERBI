@@ -32,9 +32,9 @@ The goal is to help management make data-driven decisions to improve win rates a
 ```
 PowerBI/
 │
-├── 📄           
-├── 📄 FRD_CRM_Sales_Opportunity_Dashboard (1).pdf               # Functional Requirement Document  
-├── 📊 Data/              # Raw & Cleaned datasets & Data Assessment  
+├── 📄 BRD powerbi.pdf         
+├── 📄 FRD_CRM_Sales_Opportunity_Dashboard (1).pdf               
+├── 📊  
 ├── 📈 Visuals/           # Dashboard Mockup (.ppt)  
 ├── 🧮 PowerBI/           # Power BI files (.pbix)  
 ├── 📑 Reports/           # Exported reports and dashboards  
